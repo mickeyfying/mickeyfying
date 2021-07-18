@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Shivam Singh
 #### Game Developer, UI Designer, Top-Notch Video Editor, Professional Animator
-![Game Developer, UI Designer, Top-Notch Video Editor, Professional Animator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Game Developer, UI Designer, Top-Notch Video Editor, Professional Animator](https://drive.google.com/file/d/1NiBBcP_BdchRbypo55glO8TM94_TBuMR/view?usp=sharing)
 
 I am a Young Aspiring Game Developer, Everyday Learning Something New which adds value to my Life in the Long Term, Currently developing mickeyfying_studios
 
