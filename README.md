@@ -34,7 +34,7 @@ Skills: Python/C#/C++/Unity/Unreal Engine/Blender3D/Reallusion3D/Adobe AfterEffe
 
 ![GitHub metrics](https://metrics.lecoq.io/mickeyfying)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mickeyfying&show_icons=true&locale=en&layout=compact" alt="mickeyfying" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mickeyfying&show_icons=true&locale=en&layout=compact" alt="mickeyfying" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mickeyfying&show_icons=true&locale=en" alt="mickeyfying" /></p>
