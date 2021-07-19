@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm Shivam Singh</h1>
-<h3 align="center">Game Developer with Love</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mickeyfying&label=Profile%20views&color=0e75b6&style=flat" alt="mickeyfying" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mickeyfying" alt="mickeyfying" /></a> </p>
-
 ### Hi there 👋, My Name is Shivam Singh
 #### Game Developer, UI Designer, Top-Notch Video Editor, Professional Animator
 ![shivam_singh](https://user-images.githubusercontent.com/67150258/126064868-a588fa05-0d7b-4169-ab05-b2b939d2e91b.png)
