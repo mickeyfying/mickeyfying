@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Shivam Singh</h1>
-<h3 align="center">Game Developer with Love</h3>
+### Hi there 👋, My Name is Shivam Singh
+#### Game Developer, UI Designer, Top-Notch Video Editor, Professional Animator
+![shivam_singh](https://user-images.githubusercontent.com/67150258/126064868-a588fa05-0d7b-4169-ab05-b2b939d2e91b.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mickeyfying&label=Profile%20views&color=0e75b6&style=flat" alt="mickeyfying" /> </p>
+I am a Young Aspiring Game Developer, Everyday Learning Something New which adds value to my Life in the Long Term, Currently developing mickeyfying_studios
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mickeyfying" alt="mickeyfying" /></a> </p>
+Skills: Python/C#/C++/Unity/Unreal Engine/Blender3D/Reallusion3D/Adobe AfterEffects/Adobe PremierePro/DaVinciResolve/Adobe Illustrator/Adobe Animate
 
-- 🔭 I’m currently working on **building Mickeyfying Studios**
-
-- 👯 I’m looking to collaborate on **Game development**
-
-- 💬 Ask me about **any skills relevant to me**
+- 🔭 I’m currently working on developing mickeyfying-studios 
+- 👯 I’m looking to collaborate on Game Development and Video Editing 
+- 💬 Ask me about anything in relevance to my skills. 
+- 📫 How to reach me: scribblingchronicles@gmail.com 
+- ⚡ Fun fact: I also want to make some incredible Invention in Robotic-Engineering 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
