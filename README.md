@@ -1,18 +1,10 @@
 ### Hi there 👋, My Name is Shivam Singh
-#### Game Developer, UI Designer, Top-Notch Video Editor, Professional Animator
-
-![shivam_singh](https://user-images.githubusercontent.com/67150258/126064868-a588fa05-0d7b-4169-ab05-b2b939d2e91b.png)
 ![](assets/mickeyfying.png)
 
-I am a Young Aspiring Game Developer, Everyday Learning Something New which adds value to my Life in the Long Term, Currently developing mickeyfying_studios
-
-Skills: Python/C#/C++/Unity/Unreal Engine/Blender3D/Reallusion3D/Adobe AfterEffects/Adobe PremierePro/DaVinciResolve/Adobe Illustrator/Adobe Animate
-
-- 🔭 I’m currently working on developing mickeyfying-studios 
+- 🔭 I’m currently working on developing Mickeyfying-Studios 
 - 👯 I’m looking to collaborate on Game Development and Video Editing 
-- 💬 Ask me about anything in relevance to my skills. 
-- 📫 How to reach me: scribblingchronicles@gmail.com 
-- ⚡ Fun fact: I also want to make some incredible Invention in Robotic-Engineering 
+- 💬 Ask me about anything in Relevance to my skills. 
+- 📫 How to reach me: mickeyfyingstudios@gmail.com 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
