@@ -2,6 +2,7 @@
 #### Game Developer, UI Designer, Top-Notch Video Editor, Professional Animator
 
 ![shivam_singh](https://user-images.githubusercontent.com/67150258/126064868-a588fa05-0d7b-4169-ab05-b2b939d2e91b.png)
+![](assets/mickeyfying.png)
 
 I am a Young Aspiring Game Developer, Everyday Learning Something New which adds value to my Life in the Long Term, Currently developing mickeyfying_studios
 
